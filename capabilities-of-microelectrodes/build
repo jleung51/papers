@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+FILE="capabilities-of-microelectrodes"
+
+pdflatex $FILE
+bibtex $FILE
+pdflatex $FILE
+pdflatex $FILE
