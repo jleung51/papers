@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+FILE="research-proposal-microservices-for-healthcare"
+
+pdflatex $FILE
+bibtex $FILE
+pdflatex $FILE
+pdflatex $FILE

@@ -6,11 +6,13 @@ These papers are typeset in LaTeX. They were generally written for coursework.
 
 ## Directory
 
+<a href="https://github.com/jleung51/papers/blob/master/research-proposal-microservices-for-healthcare/research-proposal-microservices-for-healthcare.pdf">Leung, J. (2017). Research Proposal: Utilizing Microservices for Healthcare Systems. _CMPT 376W: Technical Writing and Group Dynamics_.</a>
+
 <a href="https://github.com/jleung51/papers/blob/master/capabilities-of-microelectrodes/capabilities-of-microelectrodes.pdf">Leung, J. (2015). The Capabilities of Microelectrodes. _IAT 267: Introduction to Technological Systems_.</a>
 
 ## Build
 
-Required packages: `texlive texlive-bibtex-extra`
+Required packages: `texlive texlive-bibtex-extra texlive-publishers`
 
 To build the initial file, run:
 ```
