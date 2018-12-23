@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+FILE="ethical-considerations-of-human-enhancement"
+
+pdflatex $FILE
+bibtex $FILE
+pdflatex $FILE
+pdflatex $FILE
