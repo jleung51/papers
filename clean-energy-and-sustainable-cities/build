@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+FILE="clean-energy-and-sustainable-cities"
+
+pdflatex $FILE
+bibtex $FILE
+pdflatex $FILE
+pdflatex $FILE

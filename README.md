@@ -5,6 +5,8 @@ A collection of papers authored by me.
 These papers are typeset in LaTeX. They were generally written for coursework.
 
 ## Directory
+<a href="https://github.com/jleung51/papers/blob/master/clean-energy-and-sustainable-cities.pdf
+">Leung, J. (2019). Clean Energy and Sustainable Cities: A Synergistic Approach. _SEE 101W: Process, Form and Convention in Professional Genres_.</a>
 
 <a href="https://github.com/jleung51/papers/blob/master/ethical-considerations-of-human-enhancement/ethical-considerations-of-human-enhancement.pdf">Leung, J. (2018). Building the Tower of Babel: Ethical Considerations of Human Enhancement. _CMPT 320: Social Implications of a Computerized Society_.</a>
 
