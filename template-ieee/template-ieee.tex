@@ -1,0 +1,46 @@
+% Required packages: texlive-bibtex-extra texlive-publishers
+
+\documentclass[10pt, oneside, letterpaper]{article}
+\usepackage[utf8]{inputenc}
+
+\usepackage{authblk}  % Allows setting affiliation
+	\setcounter{Maxaffil}{0}
+	\renewcommand\Affilfont{\itshape\small}
+\usepackage[justification=centering]{caption}
+\usepackage{float}  % Allows use of the H specifier for floats in multicols
+\usepackage[margin=1.5in]{geometry}
+\usepackage{graphicx}
+	\graphicspath{ {img/} }
+\usepackage[colorlinks=true, linkcolor=blue, urlcolor=blue, citecolor=blue]{hyperref}
+\usepackage{indentfirst}  % Forces the first paragraph to indent
+\usepackage{multicol}
+\usepackage{ragged2e}  % For ragged right bibliography
+\usepackage{verbatim}
+
+\title{\textbf{SHORT TITLE:\\LONG TITLE}}
+\author{NAME}
+\affil{AFFILIATION}
+\date{DATE}
+
+\begin{document}
+
+	\maketitle
+
+	\begin{abstract}
+		ABSTRACT CONTENT
+	\end{abstract}
+
+	\begin{multicols}{2}
+
+	\section{SECTION TITLE}
+
+  \cite{CITATION}
+
+	\end{multicols}
+
+	{\RaggedRight
+		\bibliographystyle{IEEEtran}
+		\bibliography{BIBTITLE}
+	}
+
+\end{document}
