@@ -5,6 +5,9 @@ A collection of papers authored by me.
 These papers are typeset in LaTeX. They were generally written for coursework.
 
 ## Directory
+<a href="https://github.com/jleung51/papers/blob/master/technological-enhancement-an-imminent-social-recategorization/technological-enhancement-an-imminent-social-recategorization.pdf
+">Leung, J. (2019). Technological Enhancement: An Imminent Social Recategorization of Beyond-Human Abilities. _SEE 101W: Process, Form and Convention in Professional Genres_.</a>
+
 <a href="https://github.com/jleung51/papers/blob/master/clean-energy-and-sustainable-cities/clean-energy-and-sustainable-cities.pdf
 ">Leung, J. (2019). Clean Energy and Sustainable Cities: A Synergistic Approach. _SEE 101W: Process, Form and Convention in Professional Genres_.</a>
 
